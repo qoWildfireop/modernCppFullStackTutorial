@@ -17,3 +17,5 @@ lt test2
 https://github.com/pqdxiao/modernCppFullStackTutorial.git
 1.nodejs版本不匹配vue时候:
 $env:NODE_OPTIONS="--openssl-legacy-provider"
+
+【wolf测试】：1233211234567
